@@ -1,4 +1,4 @@
-
+#Boyer Moore Majority Vote Algorithm
 class Solution(object):
     def majorityElement(self,nums):
         candidate = nums[0] 
