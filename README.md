@@ -6,6 +6,7 @@ LeetCode  [ Top Interview 150 ]
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -37,10 +38,12 @@ LeetCode  [ Top Interview 150 ]
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
