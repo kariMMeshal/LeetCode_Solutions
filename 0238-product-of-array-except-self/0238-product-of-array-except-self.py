@@ -1,3 +1,4 @@
+# prefix_product + suffix_Product = Product without the index
 class Solution(object):
     def productExceptSelf(self,nums):
       output = [0]*len(nums)
