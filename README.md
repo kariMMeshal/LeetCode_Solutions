@@ -78,5 +78,6 @@ LeetCode  [ Top Interview 150 ]
 | ------- |
 | [0183-customers-who-never-order](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
 | [1258-article-views-i](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
