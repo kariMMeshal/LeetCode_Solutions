@@ -81,6 +81,7 @@ LeetCode  [ Top Interview 150 ]
 | [0178-rank-scores](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0196-delete-duplicate-emails) |
 | [1258-article-views-i](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1670-patients-with-a-condition) |
