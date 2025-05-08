@@ -1,7 +1,6 @@
 import pandas as pd
 
 def game_analysis(activity: pd.DataFrame) -> pd.DataFrame:
-    activity.sort_values(by='event_date' , inplace=True)
-    activity.drop_duplicates(subset='player_id' , inplace=True)
-    activity.rename(columns={'event_date':'first_login'} , inplace=True)
-    return(activity[['player_id' , 'first_login']])
+    result  = activity.groupby('player_id')['event_date'].min().reset_index()
+    result.rename(columns={'event_date':'first_login'} , inplace=True)
+    return (result)
