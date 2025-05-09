@@ -92,4 +92,5 @@ LeetCode  [ Top Interview 150 ]
 | [1908-recyclable-and-low-fat-products](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/2024-calculate-special-bonus) |
+| [2057-count-salary-categories](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
