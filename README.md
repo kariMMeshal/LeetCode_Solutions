@@ -93,4 +93,5 @@ LeetCode  [ Top Interview 150 ]
 | [1948-rearrange-products-table](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/2057-count-salary-categories) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
