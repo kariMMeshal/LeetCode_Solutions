@@ -82,6 +82,7 @@ LeetCode  [ Top Interview 150 ]
 | [0183-customers-who-never-order](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/kariMMeshal/LeetCode_Solutions/tree/master/1258-article-views-i) |
